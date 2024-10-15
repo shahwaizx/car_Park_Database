@@ -1,0 +1,6 @@
+[{"customer_id":1, "name":"John Doe", "cnic":"1234567891234", "phone_no":"98765432123", "username":"john_doe", "password":"customerpass1"},
+ {"customer_id":2, "name":"Jane Doe", "cnic":"9876545211234", "phone_no":"12345678923", "username":"jane_doe", "password":"customerpass2"},
+ {"customer_id":3, "name":"Hamayu", "cnic":"1234512345670", "phone_no":"03400013408", "username":"hamayu111", "password":"12345"},
+ {"customer_id":4, "name":"shahwaiz", "cnic":"6110112345679", "phone_no":"03331638459", "username":"shahg", "password":"123"},
+ {"customer_id":5, "name":"tayyab", "cnic":"6110162300000", "phone_no":"03335152763", "username":"tayyab1", "password":"123"},
+ {"customer_id":6, "name":"usman", "cnic":"3410270283687", "phone_no":"03004576896", "username":"ru0300usman@gmail.com", "password":"abc"}]

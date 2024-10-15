@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-8.2.0">
+    <CLASSES>
+      <root url="jar://D:/jar files/jackson-databind-2.16.0.jar!/" />
+      <root url="jar://D:/jar files/mongo-java-driver-3.12.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
